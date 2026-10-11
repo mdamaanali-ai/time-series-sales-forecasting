@@ -25,5 +25,4 @@ streamlit run app.py
 
 Demo data is included. For the formal task, upload a real historical sales dataset and document its source.
 
-## Suggested GitHub repository
-`time-series-sales-forecasting`
+[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Open_App-success?style=for-the-badge)](https://time-series-sales-forecasting-hbsstlpdck5dnuows99rqq.streamlit.app/)
