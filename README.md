@@ -25,4 +25,4 @@ streamlit run app.py
 
 Demo data is included. For the formal task, upload a real historical sales dataset and document its source.
 
-[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Open_App-success?style=for-the-badge)](https://time-series-sales-forecasting-hbsstlpdck5dnuows99rqq.streamlit.app/)
+[![🚀 Explore Live App](https://img.shields.io/badge/🚀%20EXPLORE%20LIVE%20APP-Click%20Here-00C853?style=for-the-badge&logo=streamlit&logoColor=white)](https://time-series-sales-forecasting-hbsstlpdck5dnuows99rqq.streamlit.app/)
